@@ -56,7 +56,7 @@ Good knowledge about computer software and hardware. And has a good eye for the 
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nimeshkasun&theme=dark" alt="Aashiq Umar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nimeshkasun&theme=dark" alt="Nimesh Ekanayake" /></p>
   </div>
 
  [![nimeshkasun's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nimeshkasun&theme=xcode)](https://github.com/nimeshkasun)
